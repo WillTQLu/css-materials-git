@@ -1,0 +1,5 @@
+---
+title:"rmd for lec"
+name: "will"
+output:"github_document"
+---
